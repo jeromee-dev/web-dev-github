@@ -1,3 +1,3 @@
-This is my another git commit on this laptop
+This is again a git commit on this laptop
 
 And here we go with commit number 2 (#2)
